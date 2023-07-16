@@ -5,5 +5,6 @@
 "changed_language": "Successfully changed language to **English**.",
 "profile_title": "'s Profile",
 "primary_role": "Primary Role",
-"key_permissions": "Key Permissions"
+"key_permissions": "Key Permissions",
+"calculator_deprecation_notice": "After today, we will be removing the calculator command. It has arisen way too many problems for us to control, and you as a person are more than capable of clicking the Calculator button on your phone."
 }
