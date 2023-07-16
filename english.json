@@ -3,5 +3,7 @@
 "developer_something_went_wrong": "Something went wrong with your code.",
 "sent_moderation_request": "Sent your request. Thanks for keeping the server safe!",
 "changed_language": "Successfully changed language to **English**.",
-"profile_title": "'s Profile"
+"profile_title": "'s Profile",
+"primary_role": "Primary Role",
+"key_permissions": "Key Permissions",
 }
