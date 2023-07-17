@@ -1,2 +1,2 @@
-# Pixel Plaza Bot
-This is the repo where most localisation happens.
+# Pixel Plaza Localization
+Here you can find all strings and translations for the bot!
