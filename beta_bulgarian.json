@@ -1,0 +1,13 @@
+{
+"calculator_answer_response": "the answer is",
+"developer_something_went_wrong": "Something went wrong with your code.",
+"sent_moderation_request": "Sent your request. Thanks for keeping the server safe!",
+"changed_language": "Successfully changed language to **Bulgarian**.",
+"profile_title": "'s Profile",
+"primary_role": "Primary Role",
+"key_permissions": "Key Permissions",
+"select_language_menu": "Select language",
+"beta_disclaimer_title": "Slow Beta",
+"beta_disclaimer_body": "This language is in beta, however not being worked on as frequently. Expect less frequent updates compared to Russian."
+
+}
